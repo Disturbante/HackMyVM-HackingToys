@@ -326,7 +326,7 @@ But before that, we need to create a rails project.
 sudo /usr/local/bin/rvm_rails.sh new rce
 ```
 
-Now that we have the project, we can start the console:
+Now that we have the project, we can start the console by running the command inside the project folder:
 ```bash
 sudo /usr/local/bin/rvm_rails.sh console
 ```
