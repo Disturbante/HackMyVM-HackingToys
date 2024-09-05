@@ -63,7 +63,7 @@ PORT     STATE SERVICE  VERSION
 
 # Port 3000 HTTPS
 
-We can start taking a look at port 3000.
+We can start taking by a look at port 3000.
 
 We have a website for hacker tools, the website offers a list of hacking tools.
 By clicking the tool, we got redirected to `/products/show/<id_number>`
