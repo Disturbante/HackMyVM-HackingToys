@@ -240,7 +240,7 @@ touch /dev/shm/index.php
 
 - Second step: Create the bash exploit for automation with the following content (change ip and port):
 ```bash
-!#/bin/bash
+#!/bin/bash
 
 #exploit.sh file
 
